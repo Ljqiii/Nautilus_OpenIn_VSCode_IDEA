@@ -9,7 +9,7 @@ The origin script from [cra0zy/VSCodeExtension.py](https://gist.github.com/cra0z
 #####  Quick download + install command:
 
 ```bash
-sudo apt-get install -y python-nautilus && wget https://github.com/Ljqiii/Nautilus_OpenIn/blob/master/openInExtension.py && mkdir -p ~/.local/share/nautilus-python/extensions && cp -f openInExtension.py ~/.local/share/nautilus-python/extensions/VSCodeExtension.py && rm openInExtension.py && nautilus -q
+sudo apt-get install -y python-nautilus && wget https://github.com/Ljqiii/Nautilus_OpenIn/blob/master/openInExtension.py && mkdir -p ~/.local/share/nautilus-python/extensions && cp -f openInExtension.py ~/.local/share/nautilus-python/extensions/openInExtension.py && rm openInExtension.py && nautilus -q
 ```
 
 
